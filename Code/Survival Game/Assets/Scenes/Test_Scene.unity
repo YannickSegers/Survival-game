@@ -18,7 +18,7 @@ RenderSettings:
   m_FogDensity: .00999999978
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientLight: {r: .200000003, g: .200000003, b: .200000003, a: 1}
+  m_AmbientLight: {r: 0, g: 0, b: 0, a: 1}
   m_SkyboxMaterial: {fileID: 0}
   m_HaloStrength: .5
   m_FlareStrength: 1
@@ -243,14 +243,14 @@ Prefab:
     - target: {fileID: 2300000, guid: ee26875348922e6489472025a079faf5, type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: 2100000, guid: 418c32203e9667e4585e83c9f9906f23, type: 2}
     - target: {fileID: 3300000, guid: ee26875348922e6489472025a079faf5, type: 2}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 400000, guid: ee26875348922e6489472025a079faf5, type: 2}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 1.51073372
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ee26875348922e6489472025a079faf5, type: 2}
       propertyPath: m_LocalScale.z
@@ -517,7 +517,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 3
   m_Type: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: .964705884, g: .945014536, b: .866343737, a: 1}
   m_Intensity: .730000019
   m_Range: 10
   m_SpotAngle: 30
@@ -641,7 +641,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 10302, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 418c32203e9667e4585e83c9f9906f23, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -666,7 +666,7 @@ Transform:
   m_GameObject: {fileID: 1844063594}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1.3327297, z: 3.86019611}
-  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_LocalScale: {x: 1.51073372, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
 --- !u!54 &1844063599
