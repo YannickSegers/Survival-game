@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SelectBehaviourFloor : SelectBehaviour {
+public class SBFloor : SelectBehaviour {
 
 	public GameObject _goalPoint;
 	public GameObject _hero;
