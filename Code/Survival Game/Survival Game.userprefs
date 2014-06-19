@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Inventory.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\New Unity Project 1\Assets\test.xml">
     <Files>
-      <File FileName="Assets\Scripts\Inventory.cs" Line="21" Column="2" />
-      <File FileName="Assets\Scripts\SBFloor.cs" Line="8" Column="47" />
-      <File FileName="Assets\Scripts\SBTree.cs" Line="20" Column="4" />
-      <File FileName="Assets\Scripts\Item.cs" Line="8" Column="6" />
-      <File FileName="Assets\Scripts\UI.cs" Line="49" Column="3" />
+      <File FileName="..\..\..\..\New Unity Project 1\Assets\test.xml" Line="1" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
